@@ -1,0 +1,19 @@
+[INFO] 04-12-2024 00:22:51 [main] [Tests.UserJourneyTest.setup(UserJourneyTest.java:32)] - Browser was opened
+[INFO] 04-12-2024 00:22:51 [main] [Tests.UserJourneyTest.setup(UserJourneyTest.java:34)] -  browser is redirected to the url
+[INFO] 04-12-2024 00:22:52 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] -  Test Case userJourney started
+[INFO] 04-12-2024 00:22:53 [main] [Tests.UserJourneyTest.userJourney(UserJourneyTest.java:50)] - login Successfully
+[INFO] 04-12-2024 00:22:53 [main] [Tests.UserJourneyTest.userJourney(UserJourneyTest.java:53)] - the fleece jacked was added to the cart successfully
+[INFO] 04-12-2024 00:22:54 [main] [Tests.UserJourneyTest.userJourney(UserJourneyTest.java:56)] - the Onesie page was opened successfully
+[INFO] 04-12-2024 00:22:54 [main] [Tests.UserJourneyTest.userJourney(UserJourneyTest.java:59)] - the onesie product was added to the cart successfully
+[INFO] 04-12-2024 00:22:54 [main] [Pages.OnesiePage.getNumberOfProductsOnCartIcon(OnesiePage.java:34)] - number of products on cart 2
+[INFO] 04-12-2024 00:22:54 [main] [Tests.UserJourneyTest.userJourney(UserJourneyTest.java:63)] - the cart was opened successfully
+[INFO] 04-12-2024 00:22:55 [main] [Tests.UserJourneyTest.userJourney(UserJourneyTest.java:76)] - the checkout page was opened successfully
+[INFO] 04-12-2024 00:22:55 [main] [Pages.CheckoutPage.enterUserData(CheckoutPage.java:34)] - First Name: Leanne
+[INFO] 04-12-2024 00:22:55 [main] [Pages.CheckoutPage.enterUserData(CheckoutPage.java:35)] - Last Name: Graham
+[INFO] 04-12-2024 00:22:55 [main] [Pages.CheckoutPage.enterUserData(CheckoutPage.java:36)] - Zip/Postal Code: 92998-3874
+[INFO] 04-12-2024 00:22:55 [main] [Tests.UserJourneyTest.userJourney(UserJourneyTest.java:79)] - first name is wright
+[INFO] 04-12-2024 00:22:55 [main] [Tests.UserJourneyTest.userJourney(UserJourneyTest.java:81)] - last name is wright
+[INFO] 04-12-2024 00:22:55 [main] [Tests.UserJourneyTest.userJourney(UserJourneyTest.java:83)] - zipcode is wright
+[INFO] 04-12-2024 00:22:56 [main] [Tests.UserJourneyTest.userJourney(UserJourneyTest.java:86)] - user is redirected to the overview page
+[INFO] 04-12-2024 00:22:56 [main] [Tests.UserJourneyTest.userJourney(UserJourneyTest.java:88)] - the total price is correct
+[INFO] 04-12-2024 00:22:56 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:14)] -  Test Case userJourney Passed 

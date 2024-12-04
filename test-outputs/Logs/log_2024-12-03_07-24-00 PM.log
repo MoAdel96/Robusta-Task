@@ -1,0 +1,6 @@
+[INFO] 03-12-2024 19:24:00 [main] [Tests.UserJourneyTest.setup(UserJournetTest.java:32)] - Browser was opened
+[INFO] 03-12-2024 19:24:01 [main] [Tests.UserJourneyTest.setup(UserJournetTest.java:34)] -  browser is redirected to the url
+[INFO] 03-12-2024 19:24:01 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] -  Test Case userJourney started
+[INFO] 03-12-2024 19:24:24 [main] [Tests.UserJourneyTest.userJourney(UserJournetTest.java:43)] - login Successfully
+[INFO] 03-12-2024 19:24:25 [main] [Pages.OnesiePage.getNumberOfProductsOnCartIcon(OnesiePage.java:33)] - number of products on cart 2
+[INFO] 03-12-2024 19:24:35 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:35)] -  Test Case userJourney Failed 

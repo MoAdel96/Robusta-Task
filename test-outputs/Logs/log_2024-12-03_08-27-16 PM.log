@@ -1,0 +1,9 @@
+[INFO] 03-12-2024 20:27:16 [main] [Tests.UserJourneyTest.setup(UserJournetTest.java:29)] - Browser was opened
+[INFO] 03-12-2024 20:27:17 [main] [Tests.UserJourneyTest.setup(UserJournetTest.java:31)] -  browser is redirected to the url
+[INFO] 03-12-2024 20:27:17 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] -  Test Case userJourney started
+[INFO] 03-12-2024 20:27:23 [main] [Tests.UserJourneyTest.userJourney(UserJournetTest.java:40)] - login Successfully
+[INFO] 03-12-2024 20:27:24 [main] [Pages.OnesiePage.getNumberOfProductsOnCartIcon(OnesiePage.java:33)] - number of products on cart 2
+[INFO] 03-12-2024 20:27:25 [main] [Pages.CheckoutPage.enterUserData(P04_CheckoutPage.java:39)] - First Name: Leanne
+[INFO] 03-12-2024 20:27:25 [main] [Pages.CheckoutPage.enterUserData(P04_CheckoutPage.java:40)] - Last Name: Graham
+[INFO] 03-12-2024 20:27:25 [main] [Pages.CheckoutPage.enterUserData(P04_CheckoutPage.java:41)] - Zip/Postal Code: 92998-3874
+[INFO] 03-12-2024 20:27:25 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:14)] -  Test Case userJourney Passed 

@@ -1,0 +1,24 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >
+<suite name="task" >
+
+    <listeners>
+        <listener class-name="Listeners.ITestResultListenerClass"/>
+        <listener class-name="Listeners.IInvokedMethodListenerClass"/>
+    </listeners>
+
+
+    <test name="task">
+
+        <classes>
+
+            <class name="Tests.UserJourneyTest">
+                <methods>
+                    <include name="userJourney"/>
+
+                </methods>
+            </class>
+
+
+        </classes>
+    </test>
+</suite>

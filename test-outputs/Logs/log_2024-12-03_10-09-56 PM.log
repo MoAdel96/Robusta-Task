@@ -1,0 +1,4 @@
+[INFO] 03-12-2024 22:09:56 [main] [Tests.CartTest.setup(TC03_CartTest.java:33)] - Browser was opened
+[INFO] 03-12-2024 22:09:57 [main] [Tests.CartTest.setup(TC03_CartTest.java:35)] -  browser is redirected to the url
+[INFO] 03-12-2024 22:09:57 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] -  Test Case clickOnCheckoutButton started
+[INFO] 03-12-2024 22:09:59 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:14)] -  Test Case clickOnCheckoutButton Passed 

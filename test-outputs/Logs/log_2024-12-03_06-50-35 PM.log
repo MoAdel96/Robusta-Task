@@ -1,0 +1,6 @@
+[INFO] 03-12-2024 18:50:35 [main] [Tests.HomeTest.login(TC02_HomeTest.java:30)] - Browser was opened
+[INFO] 03-12-2024 18:50:35 [main] [Tests.HomeTest.login(TC02_HomeTest.java:32)] -  browser is redirected to the url
+[INFO] 03-12-2024 18:50:39 [main] [Tests.HomeTest.setup(TC02_HomeTest.java:45)] - Browser was opened
+[INFO] 03-12-2024 18:50:41 [main] [Tests.HomeTest.setup(TC02_HomeTest.java:47)] -  browser is redirected to the url
+[INFO] 03-12-2024 18:50:41 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] -  Test Case addFleeceJacketToCart started
+[INFO] 03-12-2024 18:50:46 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:35)] -  Test Case addFleeceJacketToCart Failed 

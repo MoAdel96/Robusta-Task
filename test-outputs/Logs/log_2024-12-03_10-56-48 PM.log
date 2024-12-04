@@ -1,0 +1,9 @@
+[INFO] 03-12-2024 22:56:48 [main] [Tests.UserJourneyTest.setup(UserJourneyTest.java:32)] - Browser was opened
+[INFO] 03-12-2024 22:56:48 [main] [Tests.UserJourneyTest.setup(UserJourneyTest.java:34)] -  browser is redirected to the url
+[INFO] 03-12-2024 22:56:48 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] -  Test Case userJourney started
+[INFO] 03-12-2024 22:56:50 [main] [Tests.UserJourneyTest.userJourney(UserJourneyTest.java:50)] - login Successfully
+[INFO] 03-12-2024 22:56:50 [main] [Tests.UserJourneyTest.userJourney(UserJourneyTest.java:53)] - the fleece jacked was added to the cart successfully
+[INFO] 03-12-2024 22:56:51 [main] [Tests.UserJourneyTest.userJourney(UserJourneyTest.java:56)] - the Onesie page was opened successfully
+[INFO] 03-12-2024 22:56:51 [main] [Tests.UserJourneyTest.userJourney(UserJourneyTest.java:59)] - the onesie product was added to the cart successfully
+[INFO] 03-12-2024 22:56:51 [main] [Pages.OnesiePage.getNumberOfProductsOnCartIcon(OnesiePage.java:33)] - number of products on cart 2
+[INFO] 03-12-2024 22:56:51 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:35)] -  Test Case userJourney Failed 

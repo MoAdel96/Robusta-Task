@@ -1,0 +1,15 @@
+[INFO] 03-12-2024 19:21:53 [main] [Tests.UserJourneyTest.setup(UserJournetTest.java:32)] - Browser was opened
+[INFO] 03-12-2024 19:21:54 [main] [Tests.UserJourneyTest.setup(UserJournetTest.java:34)] -  browser is redirected to the url
+[INFO] 03-12-2024 19:21:54 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] -  Test Case userJourney started
+[INFO] 03-12-2024 19:21:55 [main] [Tests.UserJourneyTest.userJourney(UserJournetTest.java:43)] - login Successfully
+[INFO] 03-12-2024 19:21:56 [main] [Pages.OnesiePage.getNumberOfProductsOnCartIcon(OnesiePage.java:33)] - number of products on cart 2
+[INFO] 03-12-2024 19:22:12 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:35)] -  Test Case userJourney Failed 
+[ERROR] 03-12-2024 19:22:12 [main] [Utilities.Utility.takeScreenShot(Utility.java:72)] - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=131.0.2903.70)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [7958487808a71d5e8d1950ac830c84a1, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 131.0.2903.70, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:53176}, msedge: {msedgedriverVersion: 131.0.2903.70 (73cf19ceae66..., userDataDir: C:\Users\Adel\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53176/devtoo..., se:cdpVersion: 131.0.2903.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7958487808a71d5e8d1950ac830c84a1
